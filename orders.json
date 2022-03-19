@@ -1,4 +1,4 @@
-{"orders":[
+[
     {
       "id": 1,
       "name": "Zamówienie 1/21",
@@ -119,5 +119,5 @@
       "boxesCount": 2
     }
   
-  ]}
+  ]
   
